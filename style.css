@@ -47,7 +47,7 @@ border-radius: 32px;
     color: rgb(0, 0, 0);
     background-color: rgb(179, 177, 179);
     padding: 10px 20px;
-    text-decoration: dashed;
+    text-decoration: none;
     border-radius: 32px;
     
 }
@@ -76,4 +76,20 @@ border-radius: 32px;
     text-decoration: dashed;
     border-radius: 32px;
     
+}
+
+
+
+
+
+
+
+.boutonbleu{
+color: #c4c4c4;
+background-color: rgb(17, 8, 145);
+padding: 10px 20px;
+text-decoration:none;
+border-radius: 15;
+
+
 }
